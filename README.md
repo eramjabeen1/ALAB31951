@@ -40,6 +40,19 @@ Accepts JSON body like:
   "score": 95
 }
 
+## Notes from the Developer
+
+This project was built independently without using the provided class CodeSandbox starter.  
+I chose to rebuild the app from scratch in my own local VS Code environment, using Mongoose for the full refactor.  
+I wanted to learn as I go hands on, even if it meant more confusion because that’s how things actually stick for me.  
+Postman was used to test the routes, and everything was configured manually from MongoDB Atlas to environment variables.
+
+The goal was to understand how each part connects by building it myself first.  
+That said, I understand how important it is to be able to work with and refactor prewritten code especially in the real world where we build on top of existing systems.  
+So I plan to try it both ways: from scratch for learning, and with the class starter to practice refactoring directly.  
+(And because I don’t want peace... I want problems, always.)
+
+
 Author
 
 **Eram Jabeen**  
