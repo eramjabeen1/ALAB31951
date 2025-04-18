@@ -43,7 +43,7 @@ Accepts JSON body like:
 Author
 
 **Eram Jabeen**  
-Solo parent coder — learning to build while rebuilding.  
+Solo parent coder .. learning to build while rebuilding.  
 This project came with errors, confusion, redirections and growth. 
 Built this with Node.js, Express, Mongoose & 1001 interruptions from the little ones. 
 
